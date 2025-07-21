@@ -1,7 +1,7 @@
 {
-  "name": "discord-ts-status",
-  "version": "0.0.3",
-  "description": "Le funne",
+  "name": "ts3-discord-status",
+  "version": "1.0.0",
+  "description": "A Discord bot that displays real-time TeamSpeak server status and user counts",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,5 +10,10 @@
     "discord.js": "^12.5.3",
     "ts3-nodejs-library": "^3.4.1",
     "dotenv": "^16.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AXOca/ts3-discord-status.git"
   }
-} 
+}
