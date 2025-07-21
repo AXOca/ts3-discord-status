@@ -1,0 +1,14 @@
+{
+  "name": "discord-ts-status",
+  "version": "0.0.3",
+  "description": "Le funne",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ts3-nodejs-library": "^3.4.1",
+    "dotenv": "^16.0.0"
+  }
+} 
