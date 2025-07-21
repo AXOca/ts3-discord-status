@@ -10,7 +10,8 @@ This bot bridges TeamSpeak and Discord by providing:
 - **Configurable user count** in Discord channel names
 - **Live embeds** showing exactly who's in which channels
 
-<img width="292" height="70" alt="Screenshot Counter" src="https://github.com/user-attachments/assets/14fb4f90-88c6-4c4f-90f9-0a665e6323c5" />
+<img width="292" height="70" alt="Screenshot Counter" src="https://github.com/user-attachments/assets/1ce53f45-4d29-4b9b-9e4d-4f93de893fb1" />
+
 
 ## Features
 
